@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a machine learning researcher affiliated to Purdue University. I am advised by Dr. Snehasis Mukhopadhyay and Dr. Shiaofen Fang. 
+I'm a Doctoral Candidate at Purdue University, advised by Dr. Snehasis Mukhopadhyay, Computer Science @Purdue University and Dr. Shiaofen Fang, Computer Science @Indiana University. 
 
 My work lies at the intersection of multimodal AI, natural language processing and human in the loop techniques. I am broadly interested in developing algorithms in AI for social good applications especially in AI for education. 
 
