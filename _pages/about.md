@@ -11,7 +11,7 @@ I'm a Doctoral Candidate at [Purdue University](https://cs.purdue.edu/), advised
 
 My work lies at the intersection of multimodal AI, natural language processing, generative AI and human in the loop techniques. I am broadly interested in developing algorithms in AI for social good applications, especially in AI for education and building robust AI systems. 
 
-The focus of my research is to derive human behavioral patterns from videos using multimodal inputs. The goal is to improve STEM retention in academia by providing instructor feedback through AI using uncertainty analysis and RLHF methods in generative AI. 
+The focus of my research is to derive human behavioral patterns from videos using multimodal inputs. The goal is to improve STEM retention in academia by providing instructor feedback through AI using uncertainty analysis and RLHF methods in generative AI. The pedagogical tool is modeled on the online version of [peer-led team learning](https://en.wikipedia.org/wiki/Peer-led_team_learning)(PLTL) i.e. cyber PLTL. 
 
 Last summer, I interned at [IBM T.J. Watson Research Center](https://research.ibm.com/labs/yorktown-heights), Yorktown Heights, NY where I worked on NLP and large language models (LLMs) for text classification applications. I also worked on a performance engineering project involving machine learning with Intel calibrations at [Dell Technologies](https://www.dell.com/en-us/lp/dt/industry), Austin TX. 
 
