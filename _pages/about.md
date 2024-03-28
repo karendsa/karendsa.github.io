@@ -13,7 +13,9 @@ My work lies at the intersection of multimodal AI, natural language processing a
 
 The focus of my research is to derive human behavioral patterns from videos using mutimodal inputs. The goal is to improve STEM retention in academia by providing instructor feedback through AI using uncertainty analysis and RLHF methods in generative AI. 
 
-Last summer, I interned at IBM T.J. Watson Research Center, Yorktown Heights, NY where I worked on NLP and large language models (LLMs) for text classification applications. I also worked at Dell Inc., Austin TX on a performance engineering project involving machine learning with Intel calibrations. 
+Last summer, I interned at IBM T.J. Watson Research Center, Yorktown Heights, NY where I worked on NLP and large language models (LLMs) for text classification applications. I also worked on a performance engineering project involving machine learning with Intel calibrations at Dell Inc., Austin TX. 
+
+I participated as a [Microsoft TEALS](https://www.microsoft.com/en-us/teals) teaching assistant during the 2022-23 academic year. It was an enriching experience to teach principles of computer science using an innovative curriculum from [code.org](https://code.org/teach). I was also fortunate to be a Google Computer Science Research Mentee Scholar in 2022. 
 
 Contact me to know more!
 
