@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Doctoral Candidate at [Purdue University](https://cs.purdue.edu/), advised by Dr. Snehasis Mukhopadhyay, Computer Science @Purdue University and Dr. Shiaofen Fang, Computer Science @Indiana University. 
+I'm a Doctoral Candidate at [Purdue University](https://cs.purdue.edu/), advised by [Dr. Snehasis Mukhopadhyay](https://www.purdue.edu/newsroom/purduetoday/releases/2024/Q1/using-ai-models-to-predict-sinus-surgery-outcomes-earns-nih-grant-for-purdue-professor-in-indianapolis.html), Computer Science @Purdue University and [Dr. Shiaofen Fang](https://luddy.iupui.edu/contact/profile/shiaofen-fang). 
 
 My work lies at the intersection of multimodal AI, natural language processing, generative AI and human in the loop techniques. I am broadly interested in developing algorithms in AI for social good applications, especially in AI for education and building robust AI systems. 
 
