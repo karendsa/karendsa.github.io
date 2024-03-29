@@ -34,6 +34,10 @@ K Dsouza, A French
 Proceedings of the 55th Hawaii International Conference on System Sciences
 [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cYCDkQIAAAAJ&sortby=pubdate&citation_for_view=cYCDkQIAAAAJ:d1gkVwhDpl0C)
 
+7. **"Brain-based indicators of passenger trust during open-road driving"**
+KM DSouza, T Dang, JS Metcalfe, S Bhattacharya
+2021 IEEE 94th Vehicular Technology Conference (VTC2021-Fall), 1-6. [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cYCDkQIAAAAJ&sortby=pubdate&citation_for_view=cYCDkQIAAAAJ:u-x6o8ySG0sC)
+
 &nbsp;
 &nbsp;
 ### Presentations 
