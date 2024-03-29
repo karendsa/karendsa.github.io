@@ -46,19 +46,27 @@ Women in Data Science 2024, Stanford University, March 8, 2024
 Description: To explore group behavior in online learning environments, we introduce multimodal AI and explore LLMs to predict human behavior based on lexical, audio, and facial features extracted from the discussions. [Presentation](https://www.widsworldwide.org/events/event/wids-stanford-2024/)
 
 2. **"Bridging the Gap: Women in Tech"**
-
+Collaborative Women's Summit 2024
+Bloomington, Indiana University, March 2, 2024
+Computer science is ubiquitous in our everyday life activities. With the onset of digital transformation, every industry is experiencing a constant demand for computer science professionals. However, this trend is not spread evenly across genders. The session sheds light on the factors that prevent women from seeking careers in software and computing and includes solutions to mentorship, initiatives, awareness and advocacy for women in tech.[Presentation]()
 
 3. **""**
-
+[Presentation]()
 
 4. **""**
-
+[Presentation]()
 
 5. **""**
-6. **""**
+[Presentation]()
+
 7. **""**
+
+
 8. **""**
+
+
 9. **""**
+
 
 10. **"Data Ethics Practices with Machine Learning and AI"**
 Women in Data Science Conference
