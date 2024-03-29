@@ -70,11 +70,14 @@ Increasing participation of female graduate students in engineering majors.
 Women in Data Science Conference
 West Lafayette, Purdue University, May 1, 2023
 Affiliated to Women in Data Science, Stanford University
-[Presentation](
+[Presentation](http://sites.lib.purdue.edu/wids/index.html)
 
 
-7. **"Data Storytelling through Visualization:"**
-[Presentation](
+7. **"Harness the Power of AI with Data"**
+Collaborative Women's Summit 2023
+Bloomington, Indiana University, March 3, 2023
+The talk is geared towards women looking to explore computing majors and jobs in computer science. The session goals include empowering women to learn new skills in AI and seek STEM careers. The session will provide an overview of a research classification problem in healthcare with a demo of building multiple machine learning models- decision tree, logistic regression, random forest, and support vector machine in Python.
+[Presentation](https://womenandtech.indiana.edu/summit/overview.html)
 
 8. **""**
 [Presentation](
