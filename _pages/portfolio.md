@@ -29,7 +29,10 @@ K DSouza, L Zhu, P Varma-Nelson, S Fang, S Mukhopadhyay
 K DSouza, P Varma-Nelson, S Fang, S Mukhopadhyay
 2023 1st International Workshop on Human-in-the-Loop Applied Machine. [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cYCDkQIAAAAJ&sortby=pubdate&citation_for_view=cYCDkQIAAAAJ:UeHWp8X0CEIC)
 
-6. **""**
+6. **"Social Media and Fake News Detection using Adversarial Collaboration"**
+K Dsouza, A French
+Proceedings of the 55th Hawaii International Conference on System Sciences
+[Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cYCDkQIAAAAJ&sortby=pubdate&citation_for_view=cYCDkQIAAAAJ:d1gkVwhDpl0C)
 
 &nbsp;
 &nbsp;
