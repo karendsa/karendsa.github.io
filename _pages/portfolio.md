@@ -65,11 +65,8 @@ Increasing participation of female graduate students in engineering majors.
 5. **"Multimodal Human-In-The-Loop AI for Enhancing STEM Education"**
 2023 CMD-IT/ACM Richard Tapia Celebration of Diversity in Computing Conference Dallas, Texas, September 13-15, 2023 [Presentation](https://tapiaconference.cmd-it.org/)
 
- 6. **"Data Storytelling through Visualization:"**
- Women in Data Science Conference
- West Lafayette, Purdue University, May 1, 2023
- Affiliated to Women in Data Science, Stanford University
- [Presentation](http://sites.lib.purdue.edu/wids/index.html)
+6. **"Data Storytelling through Visualization:"**
+Women in Data Science Conference, West Lafayette, Purdue University, May 1, 2023, Affiliated to Women in Data Science, Stanford University [Presentation](http://sites.lib.purdue.edu/wids/index.html)
 
 7. **"Harness the Power of AI with Data"**
 Collaborative Women's Summit 2023
