@@ -62,17 +62,25 @@ Los Angeles, CA, October 26-28, 2023
 Increasing participation of female graduate students in engineering majors.
 [Presentation](https://we23.swe.org/)
 
-5. **""**
-[Presentation]()
+5. **"Multimodal Human-In-The-Loop AI for Enhancing STEM Education"**
+2023 CMD-IT/ACM Richard Tapia Celebration of Diversity in Computing Conference Dallas, Texas, September 13-15, 2023
+[Presentation](https://tapiaconference.cmd-it.org/)
 
-7. **""**
+6.**"Data Storytelling through Visualization:"**
+Women in Data Science Conference
+West Lafayette, Purdue University, May 1, 2023
+Affiliated to Women in Data Science, Stanford University
+[Presentation](
 
+
+7. **"Data Storytelling through Visualization:"**
+[Presentation](
 
 8. **""**
-
+[Presentation](
 
 9. **""**
-
+[Presentation](
 
 10. **"Data Ethics Practices with Machine Learning and AI"**
 Women in Data Science Conference
