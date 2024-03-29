@@ -65,33 +65,3 @@ Increasing participation of female graduate students in engineering majors.
 5. **"Multimodal Human-In-The-Loop AI for Enhancing STEM Education"**
 2023 CMD-IT/ACM Richard Tapia Celebration of Diversity in Computing Conference Dallas, Texas, September 13-15, 2023 [Presentation](https://tapiaconference.cmd-it.org/)
 
-6. **"Data Storytelling through Visualization:"**
-Women in Data Science Conference, West Lafayette, Purdue University, May 1, 2023, Affiliated to Women in Data Science, Stanford University [Presentation](http://sites.lib.purdue.edu/wids/index.html)
-
-7. **"Harness the Power of AI with Data"**
-Collaborative Women's Summit 2023
-Bloomington, Indiana University, March 3, 2023
-The talk is geared towards women looking to explore computing majors and jobs in computer science. The session goals include empowering women to learn new skills in AI and seek STEM careers. The session will provide an overview of a research classification problem in healthcare with a demo of building multiple machine learning models- decision tree, logistic regression, random forest, and support vector machine in Python.
-[Presentation](https://womenandtech.indiana.edu/summit/overview.html)
-
-8. **"AI-Augmented Peer-Led Team Learning for STEM Education"**
-AAC&U: Transforming STEM Higher Education
-Arlington, D.C., November 3-5, 2022
-The talk presents a research project that builds an AI tool to allows the Professor to determine if the specific cyber Peer Led Team Learning session is progressing in an expected manner. The AI tool can make corrective actions and provide feedback to the stakeholders by way of sentiment, audio and video features.
-Talk. [Presentation](https://secure.aacu.org/iMIS/AACUR/Events/Event_Display.aspx?EventKey=STEM23)
-
-9. **"Can Artificial Intelligence (AI) be used to monitor and enhance cPLTL workshops?"**
-2022 Biennial Conference on Chemical Education
-West Lafayette, Purdue University, July 31, 2022.
-There is a lack of AI-supported tools that assist the instructor in providing feedback of progression of learning – collaboration, effectiveness, participation. This preliminary study demonstrates that AI-Enabled models such as Support Vector Regression and Neural Networks have the potential to monitor real-time cPLTL session data for session effectiveness. [Presentation](https://www.bcce2022.org/)
-
-10. **"Data Ethics Practices with Machine Learning and AI"**
-Women in Data Science Conference
-West Lafayette, Purdue University, March 7-8, 2022. 
-Affiliated to Women in Data Science, Stanford University
-Data ethics encompasses the ethical topics that surround the use of data. Machine learning in AI applications has improved our lives. However, problems of bias, fairness and privacy unknowingly creep in after deployment. The presentation discusses data ethics considerations in the real world, tools available to mitigate the risk from data bias and a demonstration of bias in a dataset.[Presentation](http://sites.lib.purdue.edu/wids/index.html)
-
-
-
-
-
