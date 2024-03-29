@@ -15,7 +15,7 @@ The focus of my research is to derive human behavioral patterns from videos usin
 
 Last summer, I interned at [IBM T.J. Watson Research Center](https://research.ibm.com/labs/yorktown-heights), Yorktown Heights, NY where I worked on NLP and large language models (LLMs) for text classification applications. I also worked on a performance engineering project involving machine learning with Intel calibrations at [Dell Technologies](https://www.dell.com/en-us/lp/dt/industry), Austin TX. 
 
-I participated as a panelist at the [AI4Ed vision 2034](https://ai4ed.cc/aaai2024day1/) discussion at [AAAI2024](https://aaai.org/aaai-conference/) held in Vancouver, Canada. I was a [Microsoft TEALS](https://www.microsoft.com/en-us/teals) teaching assistant during the 2022-23 academic year. It was an enriching experience to teach principles of computer science using an innovative curriculum from [code.org](https://code.org/teach). I was also fortunate to be selected as a Google Computer Science Research Mentee Scholar in 2022. 
+I participated as a panelist at the [AI4Ed vision 2034](https://ai4ed.cc/aaai2024day1/) discussion at [AAAI2024](https://aaai.org/aaai-conference/) held in Vancouver, Canada. I was a [Microsoft TEALS](https://www.microsoft.com/en-us/teals) teaching assistant during the 2022-23 academic year. It was an enriching experience to teach principles of computer science using an innovative curriculum from [code.org](https://code.org/teach). I was also fortunate to be selected as a Google Computer Science Research Mentee Scholar in 2022. I serve as the [GradSWE affinity group lead](https://alltogether.swe.org/2023/08/meet-the-gradswe-affinity-group/). In my role, I initiate DEI programming to support women in STEM fields.
 
 Contact me to know more!
 
