@@ -23,7 +23,7 @@ Internet Research. [Link](https://scholar.google.com/citations?view_op=view_cita
 
 4. **"AI-Augmented Peer Led Team Learning for STEM Education"**
 K DSouza, L Zhu, P Varma-Nelson, S Fang, S Mukhopadhyay
-2023 IEEE 17th International Symposium on Applied Computational Intelligence. [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cYCDkQIAAAAJ&sortby=pubdate&citation_for_view=cYCDkQIAAAAJ:UeHWp8X0CEIC)
+2023 IEEE 17th International Symposium on Applied Computational Intelligence. [Link](https://ieeexplore.ieee.org/abstract/document/10158609)
 
 5. **"Monitoring Cyber Peer-Led Team Learning: A Multimodal Human-in-the-loop Approach"**
 K DSouza, P Varma-Nelson, S Fang, S Mukhopadhyay
