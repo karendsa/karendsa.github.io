@@ -50,11 +50,17 @@ Collaborative Women's Summit 2024
 Bloomington, Indiana University, March 2, 2024
 Computer science is ubiquitous in our everyday life activities. With the onset of digital transformation, every industry is experiencing a constant demand for computer science professionals. However, this trend is not spread evenly across genders. The session sheds light on the factors that prevent women from seeking careers in software and computing and includes solutions to mentorship, initiatives, awareness and advocacy for women in tech.[Presentation]()
 
-3. **""**
-[Presentation]()
+3. **"AI4Ed Vision 2034: Prioritizing Use Cases for Equitable Impact"**
+Association for the Advancement of Artificial Intelligence (AAAI), Workshop on AI for Education: Bridging Innovation and Responsibility 2024
+Vancouver, Canada, February 20-27, 2024
+Computer science is ubiquitous in our everyday life activities. With the onset of digital transformation, every industry is experiencing a constant demand for computer science professionals. However, this trend is not spread evenly across genders. The session sheds light on the factors that prevent women from seeking careers in software and computing and includes solutions to mentorship, initiatives, awareness and advocacy for women in tech.
+[Presentation](https://ai4ed.cc/aaai2024day1/)
 
-4. **""**
-[Presentation]()
+4. **"Graduate Mingle with Connections"**
+Society of Women Engineers WE23
+Los Angeles, CA, October 26-28, 2023
+Increasing participation of female graduate students in engineering majors.
+[Presentation](https://we23.swe.org/)
 
 5. **""**
 [Presentation]()
