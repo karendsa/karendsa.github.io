@@ -21,6 +21,12 @@ Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS)2023
 KM DSouza, AM French
 Internet Research. [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cYCDkQIAAAAJ&sortby=pubdate&citation_for_view=cYCDkQIAAAAJ:2osOgNQ5qMEC)
 
+4. **"AI-Augmented Peer Led Team Learning for STEM Education"**
+K DSouza, L Zhu, P Varma-Nelson, S Fang, S Mukhopadhyay
+2023 IEEE 17th International Symposium on Applied Computational Intelligence. [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cYCDkQIAAAAJ&sortby=pubdate&citation_for_view=cYCDkQIAAAAJ:UeHWp8X0CEIC)
+
+5. 
+
 
 &nbsp;
 &nbsp;
