@@ -67,7 +67,7 @@ Increasing participation of female graduate students in engineering majors.
 
 
 6. **"Data Storytelling through Visualization:"**
-Women in Data Science Conference, West Lafayette, Purdue University, May 1, 2023, Affiliated to Women in Data Science, Stanford University [Presentation](http://sites.lib.purdue.edu/wids/index.html)
+Women in Data Science Conference, West Lafayette, Purdue University, May 1, 2023, Affiliated to Women in Data Science, Stanford University. [Presentation](http://sites.lib.purdue.edu/wids/index.html) Cancelled.
 
 7. **"Harness the Power of AI with Data"**
 Collaborative Women's Summit 2023
@@ -90,7 +90,7 @@ There is a lack of AI-supported tools that assist the instructor in providing fe
 Women in Data Science Conference
 West Lafayette, Purdue University, March 7-8, 2022. 
 Affiliated to Women in Data Science, Stanford University
-Data ethics encompasses the ethical topics that surround the use of data. Machine learning in AI applications has improved our lives. However, problems of bias, fairness and privacy unknowingly creep in after deployment. The presentation discusses data ethics considerations in the real world, tools available to mitigate the risk from data bias and a demonstration of bias in a dataset.[Presentation](http://sites.lib.purdue.edu/wids/index.html)
+Data ethics encompasses the ethical topics that surround the use of data. Machine learning in AI applications has improved our lives. However, problems of bias, fairness and privacy unknowingly creep in after deployment. The presentation discusses data ethics considerations in the real world, tools available to mitigate the risk from data bias and a demonstration of bias in a dataset. [Presentation](http://sites.lib.purdue.edu/wids/index.html)
 
 
 
