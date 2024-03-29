@@ -45,7 +45,21 @@ KM DSouza, T Dang, JS Metcalfe, S Bhattacharya
 Women in Data Science 2024, Stanford University, March 8, 2024
 Description: To explore group behavior in online learning environments, we introduce multimodal AI and explore LLMs to predict human behavior based on lexical, audio, and facial features extracted from the discussions. [Presentation](https://www.widsworldwide.org/events/event/wids-stanford-2024/)
 
-2. 
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+
+10. **"Data Ethics Practices with Machine Learning and AI"**
+Women in Data Science Conference
+West Lafayette, Purdue University, March 7-8, 2022. 
+Affiliated to Women in Data Science, Stanford University
+Data ethics encompasses the ethical topics that surround the use of data. Machine learning in AI applications has improved our lives. However, problems of bias, fairness and privacy unknowingly creep in after deployment. The presentation discusses data ethics considerations in the real world, tools available to mitigate the risk from data bias and a demonstration of bias in a dataset.
+
 
 
 
