@@ -1,20 +1,25 @@
 ---
 layout: single
 permalink: /portfolio/
-title: Portfolio
+title:  
 author_profile: true
 header:
 classes: wide
 ---
 {: .text-justify}
-## Publications
 
 ### Research Papers 
 1.	**"Unveiling Sentiment in Online Peer Learning through Machine Learning and LLMs"**
 K.M. DSouza, K., Varma-Nelson, P., Fang, S., Mukhopadhyay
-Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI) AI4Ed
+Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI) AI4Ed. [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cYCDkQIAAAAJ&sortby=pubdate&citation_for_view=cYCDkQIAAAAJ:Tyk-4Ss8FVUC)
 
+2. **"Enhancing STEM education using Multimodal AI and Human in the Loop Feedback"**
+DSouza, K., Varma-Nelson, P., Fang, S., Mukhopadhyay
+Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS)2023. [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cYCDkQIAAAAJ&sortby=pubdate&citation_for_view=cYCDkQIAAAAJ:zYLM7Y9cAGgC) 
 
+3. **"Fake news detection using machine learning: an adversarial collaboration approach"**
+KM DSouza, AM French
+Internet Research. [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cYCDkQIAAAAJ&sortby=pubdate&citation_for_view=cYCDkQIAAAAJ:2osOgNQ5qMEC)
 
 
 &nbsp;
