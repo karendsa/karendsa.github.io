@@ -15,7 +15,7 @@ Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI) AI4Ed. [Link](h
 
 2. **"Enhancing STEM education using Multimodal AI and Human in the Loop Feedback"**
 DSouza, K., Varma-Nelson, P., Fang, S., Mukhopadhyay
-Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS)2023. [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cYCDkQIAAAAJ&sortby=pubdate&citation_for_view=cYCDkQIAAAAJ:zYLM7Y9cAGgC) 
+Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS) 2023. [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cYCDkQIAAAAJ&sortby=pubdate&citation_for_view=cYCDkQIAAAAJ:zYLM7Y9cAGgC) 
 
 3. **"Fake news detection using machine learning: an adversarial collaboration approach"**
 KM DSouza, AM French
@@ -25,8 +25,11 @@ Internet Research. [Link](https://scholar.google.com/citations?view_op=view_cita
 K DSouza, L Zhu, P Varma-Nelson, S Fang, S Mukhopadhyay
 2023 IEEE 17th International Symposium on Applied Computational Intelligence. [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cYCDkQIAAAAJ&sortby=pubdate&citation_for_view=cYCDkQIAAAAJ:UeHWp8X0CEIC)
 
-5. 
+5. **"Monitoring Cyber Peer-Led Team Learning: A Multimodal Human-in-the-loop Approach"**
+K DSouza, P Varma-Nelson, S Fang, S Mukhopadhyay
+2023 1st International Workshop on Human-in-the-Loop Applied Machine. [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cYCDkQIAAAAJ&sortby=pubdate&citation_for_view=cYCDkQIAAAAJ:UeHWp8X0CEIC)
 
+6. **""**
 
 &nbsp;
 &nbsp;
