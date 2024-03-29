@@ -11,7 +11,7 @@ classes: wide
 ### Research Papers 
 1.	**"Unveiling Sentiment in Online Peer Learning through Machine Learning and LLMs"**
 K.M. DSouza, K., Varma-Nelson, P., Fang, S., Mukhopadhyay
-Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI) AI4Ed. [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cYCDkQIAAAAJ&sortby=pubdate&citation_for_view=cYCDkQIAAAAJ:Tyk-4Ss8FVUC)
+Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI) 2024 AI4Ed. [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cYCDkQIAAAAJ&sortby=pubdate&citation_for_view=cYCDkQIAAAAJ:Tyk-4Ss8FVUC)
 
 2. **"Enhancing STEM education using Multimodal AI and Human in the Loop Feedback"**
 DSouza, K., Varma-Nelson, P., Fang, S., Mukhopadhyay
@@ -19,7 +19,7 @@ Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS) 202
 
 3. **"Fake news detection using machine learning: an adversarial collaboration approach"**
 KM DSouza, AM French
-Internet Research. [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cYCDkQIAAAAJ&sortby=pubdate&citation_for_view=cYCDkQIAAAAJ:2osOgNQ5qMEC)
+Internet Research 2023. [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cYCDkQIAAAAJ&sortby=pubdate&citation_for_view=cYCDkQIAAAAJ:2osOgNQ5qMEC)
 
 4. **"AI-Augmented Peer Led Team Learning for STEM Education"**
 K DSouza, L Zhu, P Varma-Nelson, S Fang, S Mukhopadhyay
@@ -31,7 +31,7 @@ K DSouza, P Varma-Nelson, S Fang, S Mukhopadhyay
 
 6. **"Social Media and Fake News Detection using Adversarial Collaboration"**
 K Dsouza, A French
-Proceedings of the 55th Hawaii International Conference on System Sciences
+Proceedings of the 55th Hawaii International Conference on System Sciences 2022
 [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cYCDkQIAAAAJ&sortby=pubdate&citation_for_view=cYCDkQIAAAAJ:d1gkVwhDpl0C)
 
 7. **"Brain-based indicators of passenger trust during open-road driving"**
