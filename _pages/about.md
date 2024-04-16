@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a Doctoral Candidate at [Purdue University](https://cs.purdue.edu/), advised by [Dr. Snehasis Mukhopadhyay](https://www.purdue.edu/newsroom/purduetoday/releases/2024/Q1/using-ai-models-to-predict-sinus-surgery-outcomes-earns-nih-grant-for-purdue-professor-in-indianapolis.html), Computer Science @Purdue University and [Dr. Shiaofen Fang](https://luddy.iupui.edu/contact/profile/shiaofen-fang). 
 
-My work lies at the intersection of multimodal AI, natural language processing, generative AI and human in the loop techniques. I am broadly interested in developing algorithms in AI for social good applications, especially in AI for education and building robust AI systems. 
+My work lies at the intersection of multimodal AI, natural language processing, generative AI and uncertainty analysis using human in the loop techniques. I am broadly interested in developing algorithms in AI for social good applications, especially in AI for education and building robust AI systems. 
 
 The focus of my research is to derive human behavioral patterns from videos using multimodal inputs. The goal is to improve STEM retention in academia by providing instructor feedback through AI using uncertainty analysis and RLHF methods in generative AI. The pedagogical tool is modeled on the online version of [peer-led team learning](https://en.wikipedia.org/wiki/Peer-led_team_learning). I investigate key metrics in group dynamics using AI. 
 
